@@ -1,0 +1,12 @@
+"mapgroups"
+{
+    "mg_active"
+    {
+        "name" "Active Duty"
+        "maps"
+        {
+            "de_dust_2" ""
+            "cs_office" ""
+        }
+    }
+}
