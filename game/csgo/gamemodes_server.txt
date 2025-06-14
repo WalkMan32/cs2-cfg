@@ -8,8 +8,17 @@
             "maps"
             {
                 "de_dust2" "0"
-                "de_inferno" "1"
-                "de_anubis" "2"
+                "cs_mansion_cs2" "0"
+                "de_anubis" "0"
+                "de_mirage" "0"
+                "cs_office" "0"
+                "cs_agency" "0"
+                "de_ancient" "0"
+                "de_basalt" "0"
+                "de_brewery" "0"
+                "de_dogtown" "0"
+                "de_edin" "0"
+                "de_jura" "0"
             }
         }
     }
