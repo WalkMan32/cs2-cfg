@@ -13,7 +13,6 @@
                 "cs_office" "0"
                 "cs_agency" "0"
                 "de_ancient" "0"
-                "de_basalt" "0"
                 "de_brewery" "0"
                 "de_dogtown" "0"
                 "de_jura" "0"
