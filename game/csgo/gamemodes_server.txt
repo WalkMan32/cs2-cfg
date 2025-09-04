@@ -8,7 +8,6 @@
             "maps"
             {
                 "de_dust2" "0"
-                "cs_mansion_cs2" "0"
                 "de_anubis" "0"
                 "de_mirage" "0"
                 "cs_office" "0"
@@ -17,7 +16,6 @@
                 "de_basalt" "0"
                 "de_brewery" "0"
                 "de_dogtown" "0"
-                "de_edin" "0"
                 "de_jura" "0"
             }
         }
