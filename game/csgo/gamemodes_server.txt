@@ -16,6 +16,10 @@
                 "de_brewery" "0"
                 "de_dogtown" "0"
                 "de_jura" "0"
+                "de_nuke" "0"
+                "de_train" "0"
+                "de_overpass" "0"
+                "lobby_mapveto" "0"
             }
         }
     }
