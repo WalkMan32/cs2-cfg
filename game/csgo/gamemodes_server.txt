@@ -19,7 +19,9 @@
                 "de_nuke" "0"
                 "de_train" "0"
                 "de_overpass" "0"
-                "lobby_mapveto" "0"
+                "de_golden" "0"
+                "de_palacio" "0"
+                "de_rooftop" "0"
             }
         }
     }
